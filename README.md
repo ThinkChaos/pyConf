@@ -1,3 +1,7 @@
+I ended up implementing these ideas into [Confit](https://github.com/sampsyo/confit). See Confit issue [#2](https://github.com/sampsyo/confit/issues/2).
+
+---
+
 # pyConf
 A module to simplify configuration of your Python program.
 
